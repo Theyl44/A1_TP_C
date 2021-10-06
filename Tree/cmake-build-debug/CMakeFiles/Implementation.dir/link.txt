@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Implementation.dir/main.c.o CMakeFiles/Implementation.dir/tree.c.o ../list.o ../queueList.o  -o Implementation 

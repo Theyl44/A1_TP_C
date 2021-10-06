@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Theo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/TP MALLOC/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

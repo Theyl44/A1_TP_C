@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Files2_11.dir/main.c.o CMakeFiles/Files2_11.dir/queue.c.o ../list.o  -o Files2_11 

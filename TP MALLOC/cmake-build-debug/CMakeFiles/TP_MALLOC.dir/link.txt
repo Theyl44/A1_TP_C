@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TP_MALLOC.dir/main.c.o CMakeFiles/TP_MALLOC.dir/exo1.c.o CMakeFiles/TP_MALLOC.dir/exo2.c.o CMakeFiles/TP_MALLOC.dir/exo3.c.o CMakeFiles/TP_MALLOC.dir/exo4.c.o CMakeFiles/TP_MALLOC.dir/exo5.c.o CMakeFiles/TP_MALLOC.dir/exo6.c.o  -o TP_MALLOC 

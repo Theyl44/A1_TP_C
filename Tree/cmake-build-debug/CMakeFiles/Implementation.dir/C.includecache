@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/list.h
+tree.h
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/tree.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/main.c
+tree.h
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/tree.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/queueList.h
+list.h
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/list.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/tree.c
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+list.h
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/list.h
+queueList.h
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/queueList.h
+tree.h
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/tree.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2018-2019 CIR1/ALGO/TP ALGO/Implementation/tree.h
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+

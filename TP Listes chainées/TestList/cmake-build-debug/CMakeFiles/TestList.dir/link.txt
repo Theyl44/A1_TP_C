@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/TestList.dir/main.c.o CMakeFiles/TestList.dir/queue.c.o CMakeFiles/TestList.dir/list.c.o  -o TestList 

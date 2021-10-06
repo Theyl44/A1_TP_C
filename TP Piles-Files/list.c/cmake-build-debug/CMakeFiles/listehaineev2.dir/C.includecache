@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Piles-Files/list.c/list.c
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+list.h
+/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Piles-Files/list.c/list.h
+
+/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Piles-Files/list.c/list.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+
+/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Piles-Files/list.c/main.c
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+list.h
+/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Piles-Files/list.c/list.h
+

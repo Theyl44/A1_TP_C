@@ -1,0 +1,22 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Listes chainées/TestList/list.c" "/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Listes chainées/TestList/cmake-build-debug/CMakeFiles/TestList.dir/list.c.o"
+  "/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Listes chainées/TestList/main.c" "/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Listes chainées/TestList/cmake-build-debug/CMakeFiles/TestList.dir/main.c.o"
+  "/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Listes chainées/TestList/queue.c" "/mnt/c/Users/Théo/Documents/ISEN/2018-2019/ALGO/TP ALGO/TP Listes chainées/TestList/cmake-build-debug/CMakeFiles/TestList.dir/queue.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

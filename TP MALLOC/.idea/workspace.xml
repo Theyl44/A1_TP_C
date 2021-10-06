@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TP_MALLOC" targetName="TP_MALLOC" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dd55df0-9d2a-4f86-be2c-856c8e7c601f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1i3zZzTYDjalSlRPL0hGvewbmDx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../2019-2020 CIR2/INFO/C/TriTab.c" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TP_MALLOC" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;salut frr le BOSS&quot;" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TP_MALLOC" TARGET_NAME="TP_MALLOC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TP_MALLOC" RUN_TARGET_NAME="TP_MALLOC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dd55df0-9d2a-4f86-be2c-856c8e7c601f" name="Default Changelist" comment="" />
+      <created>1551879004384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551879004384</updated>
+      <workItem from="1551879006047" duration="4042000" />
+      <workItem from="1551962826925" duration="60000" />
+      <workItem from="1551963219296" duration="139000" />
+      <workItem from="1551963407860" duration="7055000" />
+      <workItem from="1551991177766" duration="190000" />
+      <workItem from="1551991626864" duration="851000" />
+      <workItem from="1552469112979" duration="56000" />
+      <workItem from="1555939689486" duration="164000" />
+      <workItem from="1555999992987" duration="23000" />
+      <workItem from="1556001355629" duration="1152000" />
+      <workItem from="1556202021399" duration="64000" />
+      <workItem from="1556206856946" duration="85000" />
+      <workItem from="1601151123504" duration="244000" />
+      <workItem from="1606741759249" duration="4000" />
+      <workItem from="1609059466787" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601151339748">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state x="394" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151339748" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1609059514586">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/-1920.2.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1609059514586" />
+    <state width="1837" height="267" key="GridCell.Tab.0.bottom" timestamp="1601151366933">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.0.bottom/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366933" />
+    <state width="1837" height="267" key="GridCell.Tab.0.center" timestamp="1601151366932">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.0.center/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366932" />
+    <state width="1837" height="267" key="GridCell.Tab.0.left" timestamp="1601151366932">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.0.left/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366932" />
+    <state width="1837" height="267" key="GridCell.Tab.0.right" timestamp="1601151366933">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.0.right/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366933" />
+    <state width="1837" height="267" key="GridCell.Tab.1.bottom" timestamp="1601151366933">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.1.bottom/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366933" />
+    <state width="1837" height="267" key="GridCell.Tab.1.center" timestamp="1601151366933">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.1.center/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366933" />
+    <state width="1837" height="267" key="GridCell.Tab.1.left" timestamp="1601151366933">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.1.left/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366933" />
+    <state width="1837" height="267" key="GridCell.Tab.1.right" timestamp="1601151366933">
+      <screen x="0" y="0" width="1881" height="1018" />
+    </state>
+    <state width="1837" height="267" key="GridCell.Tab.1.right/0.0.1881.1018/0.-1600.1176.1527@0.0.1881.1018" timestamp="1601151366933" />
+    <state x="-1264" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1609059467952">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state x="-1264" y="350" key="com.intellij.ide.util.TipDialog/-1920.2.1920.1050/0.0.1920.1050@-1920.2.1920.1050" timestamp="1609059467952" />
+    <state x="-1264" y="557" key="com.intellij.ide.util.TipDialog/-1920.209.1920.1050/0.0.1920.1050@-1920.209.1920.1050" timestamp="1606741760662" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/bilateral.dir/main.c.o  -o bilateral 

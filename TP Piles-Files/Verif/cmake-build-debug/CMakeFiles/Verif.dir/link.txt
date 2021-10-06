@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Verif.dir/main.c.o CMakeFiles/Verif.dir/list.c.o CMakeFiles/Verif.dir/stackList.c.o CMakeFiles/Verif.dir/queueList.c.o  -o Verif 

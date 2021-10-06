@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ArbreNonBinaire.dir/main.c.o CMakeFiles/ArbreNonBinaire.dir/dict.c.o  -o ArbreNonBinaire 

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ArbreNonBinaire" targetName="ArbreNonBinaire" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="606576a6-d3b0-45d0-a7b4-05650e9d3f59" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1QqDaVt6WOIeJY33QiF8GZ2PXiP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Théo\Desktop\ISEN\2018-2019\ALGO\TP ALGO\ArbreNonBinaire\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ArbreNonBinaire" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ArbreNonBinaire" TARGET_NAME="ArbreNonBinaire" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ArbreNonBinaire" RUN_TARGET_NAME="ArbreNonBinaire">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="606576a6-d3b0-45d0-a7b4-05650e9d3f59" name="Default Changelist" comment="" />
+      <created>1558526244306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558526244306</updated>
+      <workItem from="1558526246013" duration="1348000" />
+      <workItem from="1558527608972" duration="23000" />
+      <workItem from="1558527668526" duration="3940000" />
+      <workItem from="1558685294253" duration="5706000" />
+      <workItem from="1558958252691" duration="5126000" />
+      <workItem from="1559117150755" duration="6382000" />
+      <workItem from="1559809183149" duration="462000" />
+      <workItem from="1559855026041" duration="28000" />
+      <workItem from="1560770772928" duration="891000" />
+      <workItem from="1560771894943" duration="1353000" />
+      <workItem from="1560839351078" duration="703000" />
+      <workItem from="1560926813306" duration="932000" />
+      <workItem from="1560929830123" duration="8477000" />
+      <workItem from="1561036689313" duration="5571000" />
+      <workItem from="1561119810086" duration="3377000" />
+      <workItem from="1561293336227" duration="654000" />
+      <workItem from="1561470577131" duration="19000" />
+      <workItem from="1561533750400" duration="1112000" />
+      <workItem from="1561537235077" duration="613000" />
+      <workItem from="1568489298685" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/dict.c</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
